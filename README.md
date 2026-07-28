@@ -28,8 +28,8 @@ Python · C · C++ · Bash · FastAPI · WebSockets · SQLite · Linux · Docker
 
 ## Links
 
-- [Personal Website](TU_URL)
-- [LinkedIn](TU_URL)
-- [ORCID](TU_URL)
-- [Google Scholar](TU_URL)
-- [ResearchGate](TU_URL)
+- [Personal Website](https://jfcrypt.github.io/resume_it/)
+- [LinkedIn](https://www.linkedin.com/in/jfcastrotramontina/)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4374-3894)
+- [Google Scholar](https://scholar.google.com/citations?user=g460X6UAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Jose-Castro-Tramontina-2)
