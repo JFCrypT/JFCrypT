@@ -6,7 +6,7 @@
 
 ## English
 
-Army Officer (Captain), Cryptographer, Software and Embedded Systems Developer, University Professor, and PhD Candidate in Computer Science.
+Cryptographer, Software and Embedded Systems Developer, University Professor, and PhD Candidate in Computer Science.
 
 ### About Me
 
@@ -44,7 +44,7 @@ Python · C · C++ · Bash · FastAPI · WebSockets · SQLite · Linux · Docker
 
 ## Español
 
-Oficial de Ejército (Capitán), Criptógrafo, Desarrollador de Software y Sistemas Embebidos, Profesor Universitario y Doctorando en Informática.
+Criptógrafo, Desarrollador de Software y Sistemas Embebidos, Profesor Universitario y Doctorando en Informática.
 
 ### Sobre mí
 
