@@ -30,7 +30,7 @@ Cryptographer, Software and Embedded Systems Developer, University Professor, an
 
 ### Technologies and Tools
 
-Python · C · C++ · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Arduino · ESP32 · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
+Python · C · C++ · JavaScript · Google Apps Script · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
 
 ### Links
 
@@ -68,7 +68,7 @@ Criptógrafo, Desarrollador de Software y Sistemas Embebidos, Profesor Universit
 
 ### Tecnologías y herramientas
 
-Python · C · C++ · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Arduino · ESP32 · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
+Python · C · C++ · JavaScript · Google Apps Script · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
 
 ### Enlaces
 
