@@ -32,7 +32,7 @@ Cryptographer, PKI Specialist, Software and Embedded Systems Developer, Universi
 
 ### Technologies and Tools
 
-Python · C · C++ · JavaScript · Google Apps Script · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
+Python · C · C++ · JavaScript · Google Apps Script · Bash · OpenSSL · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
 
 ### Links
 
@@ -72,7 +72,7 @@ Criptógrafo, Especialista en PKI, Desarrollador de Software y Sistemas Embebido
 
 ### Tecnologías y herramientas
 
-Python · C · C++ · JavaScript · Google Apps Script · Bash · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
+Python · C · C++ · JavaScript · Google Apps Script · Bash · OpenSSL · FastAPI · WebSockets · SQLite · Linux · Docker · Podman · Arduino · ESP32 · STM32 · Raspberry Pi Pico · Raspberry Pi · PLCs · Git · GitHub · SageMath · llama.cpp · LM Studio
 
 ### Enlaces
 
