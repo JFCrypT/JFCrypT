@@ -6,22 +6,24 @@
 
 ## English
 
-Cryptographer, Software and Embedded Systems Developer, University Professor, and PhD Candidate in Computer Science.
+Cryptographer, PKI Specialist, Software and Embedded Systems Developer, University Professor, and PhD Candidate in Computer Science.
 
 ### About Me
 
 - Cryptographer and cybersecurity researcher
+- PKI specialist
 - Software and embedded systems developer
 - University professor
 - Electronics Engineering student
 - PhD Candidate in Computer Science
 - Researching post-quantum key exchange protocols
-- Working with local AI and LLM models
+- Designing and implementing Industrial PKI solutions
 
 ### Research Interests
 
 - Applied Cryptography
 - Post-Quantum Cryptography
+- Public Key Infrastructure (PKI)
 - Industrial Cybersecurity
 - Embedded Systems
 - Control Engineering
@@ -44,22 +46,24 @@ Python · C · C++ · JavaScript · Google Apps Script · Bash · FastAPI · Web
 
 ## Español
 
-Criptógrafo, Desarrollador de Software y Sistemas Embebidos, Profesor Universitario y Doctorando en Informática.
+Criptógrafo, Especialista en PKI, Desarrollador de Software y Sistemas Embebidos, Profesor Universitario y Doctorando en Informática.
 
 ### Sobre mí
 
 - Criptógrafo e investigador en ciberseguridad
+- Especialista en PKI
 - Desarrollador de software y sistemas embebidos
 - Profesor universitario
 - Estudiante de Ingeniería Electrónica
 - Doctorando en Informática
 - Investigador de protocolos de intercambio de claves post-cuánticos
-- Trabajo con modelos locales de inteligencia artificial y LLM
+- Diseño e implementación de soluciones de PKI Industrial
 
 ### Intereses de investigación
 
 - Criptografía Aplicada
 - Criptografía Post-cuántica
+- Infraestructura de Clave Pública (PKI)
 - Ciberseguridad Industrial
 - Sistemas Embebidos
 - Ingeniería de Control
